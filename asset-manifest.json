@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/face2swap/static/css/main.4295079b.css",
+    "main.js": "/face2swap/static/js/main.d318c023.js",
+    "static/js/787.06f824f0.chunk.js": "/face2swap/static/js/787.06f824f0.chunk.js",
+    "static/media/nu.101.png": "/face2swap/static/media/nu.101.dfe3cf422e41bdcc0e1a.png",
+    "index.html": "/index.html",
+    "main.4295079b.css.map": "/face2swap/static/css/main.4295079b.css.map",
+    "main.d318c023.js.map": "/face2swap/static/js/main.d318c023.js.map",
+    "787.06f824f0.chunk.js.map": "/face2swap/static/js/787.06f824f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "/face2swap/static/css/main.4295079b.css",
+    "/face2swap/static/js/main.d318c023.js"
+  ]
+}
